@@ -3,7 +3,11 @@
 Julien GUILLOUZIC
 E5DWM Nouvelles Technologies
 
+SupriseMe est une application créant une chasse au trésor.
 
-Dans mon projet, j'ai fais le scan des portes, je n'ai pas rajouter de nouvelles fonctionnalités les concernants.
+Dans cette application a l'heure actuelle nous avons, une authentification avec la carte étudiante, qui nous donnera un indice sur l'étape suivante.
 
-Cependant, j'ai ajouter un début au jeu et ainsi une authentification avec la carte estiam.
+Par la suite, une multitude d'énigme et de question seront apportés en scannant des portes et des objets dans l'estiam.
+
+Un système de menu et de score sera enregistré par la suite dans une BDD.
+
